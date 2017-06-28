@@ -1,6 +1,6 @@
 package com.`fun`.kotlin
 
-import java.util.ArrayList
+import java.util.*
 
 /**
  * Created by xulujun on 17/6/28.
@@ -9,7 +9,7 @@ import java.util.ArrayList
 
 fun main(args: Array<String>) {
     val a = "hello world";
-    val list = ArrayList<Int>
+    val list = ArrayList<Int>();
     println(a);
 
 }
