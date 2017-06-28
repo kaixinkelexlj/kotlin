@@ -1,12 +1,15 @@
 package com.`fun`.kotlin
 
+import java.util.ArrayList
+
 /**
  * Created by xulujun on 17/6/28.
  */
 
 
 fun main(args: Array<String>) {
-
-    println("hello kotlin");
+    val a = "hello world";
+    val list = ArrayList<Int>
+    println(a);
 
 }
