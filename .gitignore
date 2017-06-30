@@ -1,0 +1,6 @@
+/.idea
+/hellokotlin/.idea
+/hellokotlin/out
+/kotlinmaven/target
+/hellokotlin/*.iml
+/kotlinmaven/*.iml
